@@ -8,3 +8,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/timotealves)].
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Timotealves)
+:)
