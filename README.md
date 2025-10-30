@@ -6,6 +6,6 @@
 
 ✨ Aqui compartilho meus projetos, estudos e experimentos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/timotealves)].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/tim%C3%B3teoalves/)].
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Timotealves)
 :)
